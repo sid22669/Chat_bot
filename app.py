@@ -7,7 +7,7 @@ from langchain.vectorstores import FAISS
 
 app = Flask(__name__)
 
-# Set your API key and CSV file path here
+# Set API key and CSV file path here
 user_api_key = "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"
 csv_file_path = "Course_data_2.csv"
 
